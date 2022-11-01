@@ -1,0 +1,8 @@
+main {
+    width: 80%;
+    margin: 1rem auto;
+}
+#div1{
+    display: flex;
+    justify-content: center;
+}
